@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1541084398 source:c:\users\adam\desktop\code4fun\lab\rocket\adjoint_project\adjoint_tangent_single\winbgi2.cpp
+	<windows.h>
+	<stddef.h>
+	<stdio.h>
+	<math.h>
+	"winbgi2.h"
+
+1536314944 c:\users\adam\desktop\code4fun\lab\rocket\adjoint_project\adjoint_tangent_single\winbgi2.h
+
+1541970935 source:c:\users\adam\desktop\code4fun\lab\rocket\adjoint_project\adjoint_tangent_single\main.cpp
+	<stdio.h>
+	<math.h>
+	"winbgi2.h"
+	<vector>
+	<list>
+	<map>
+	<time.h>
+	<windows.h>
+	<iostream>
+
+1542552647 source:c:\users\adam\desktop\code4fun\lab\rocket\adjoint_project\simulation\main.cpp
+	<stdio.h>
+	<math.h>
+	"winbgi2.h"
+	<vector>
+	<list>
+	<map>
+	<time.h>
+	<windows.h>
+	<iostream>
+
+1536314944 c:\users\adam\desktop\code4fun\lab\rocket\adjoint_project\simulation\winbgi2.h
+
+1541084398 source:c:\users\adam\desktop\code4fun\lab\rocket\adjoint_project\simulation\winbgi2.cpp
+	<windows.h>
+	<stddef.h>
+	<stdio.h>
+	<math.h>
+	"winbgi2.h"
+
